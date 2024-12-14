@@ -10,13 +10,13 @@
     <td>記憶體</td><td>DDR3-1600 8GB*3 + 4GB*1</td>
   </tr>
   <tr>
-    <td>iGPU</td><td>Intel HD Graphics 4600</td>
+    <td>dGPU</td><td>MSI RX560</td>
   </tr>
   <tr>  
     <td>固態硬碟</td><td>Cruical MX500 1TB</td>
   </tr>
   <tr>
-    <td>系統</td><td>macOS Sonoma 14.5 + OpenCore 1.0.1</td>
+    <td>系統</td><td>macOS Sonoma 15.2 + OpenCore 1.0.1</td>
   </tr>  
 </table>
 <img width="450" src="https://user-images.githubusercontent.com/79300809/202959989-cc162c06-bb07-4952-889d-c1af49746eed.jpg"><br>
