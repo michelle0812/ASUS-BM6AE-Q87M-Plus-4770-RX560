@@ -16,7 +16,7 @@
     <td>固態硬碟</td><td>Cruical MX500 1TB</td>
   </tr>
   <tr>
-    <td>系統</td><td>macOS Sonoma 15.2 + OpenCore 1.0.1</td>
+    <td>系統</td><td>macOS Sequoia 15 + OpenCore 1.0.1</td>
   </tr>  
 </table>
 <img width="450" src="https://user-images.githubusercontent.com/79300809/202959989-cc162c06-bb07-4952-889d-c1af49746eed.jpg"><br>
